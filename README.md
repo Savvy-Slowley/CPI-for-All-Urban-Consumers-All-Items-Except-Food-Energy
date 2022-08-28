@@ -1,1 +1,2 @@
 # CPI-for-All-Urban-Consumers-All-Items-Except-Food-Energy
+The "Consumer Price Index for All Urban Consumers: All Items Less Food & Energy" is an aggregate of prices paid by urban consumers for a typical basket of goods, excluding food and energy. This measurement, known as "Core CPI," is widely used by economists because food and energy have very volatile prices. The Bureau of Labor Statistics defines and measures the official CPI.
